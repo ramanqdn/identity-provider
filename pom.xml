@@ -12,7 +12,7 @@
     <artifactId>authorization-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>authorization-server</name>
-    <description>Project for Spring Boot</description>
+    <description>Project for Oauth Server</description>
 
     <properties>
         <java.version>1.8</java.version>
